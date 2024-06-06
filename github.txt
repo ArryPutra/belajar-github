@@ -1,2 +1,1 @@
-ini dibuat di github
-emang bentrok?
+Ini adalah kode github
